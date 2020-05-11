@@ -1,0 +1,76 @@
+* {
+    font-family: "Roboto", "Lato", Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #1b262c;
+}
+
+h2 {
+    color: #3282b8;
+    font-size: 30px;
+    font-weight: medium;
+}
+
+a {
+    color: #bbe1fa;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+main {
+    padding-top: 5%;
+}
+
+.site-header h1{
+    color: #801336;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+}
+
+.main-nav {
+    text-align: center;
+}
+
+.main-nav ul {
+    list-style: none;
+    text-transform: uppercase;
+}
+
+.main-nav ul li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+}
+
+.main-nav ul li  a {
+    font-size: 30px;
+    color: #0f4c75;
+}
+
+.bd-col {
+    /* float: left; */
+    max-width: 500px;
+    padding: 20px 2%;
+    margin: auto
+}
+
+.io-col {
+    /* float: left; */
+    max-width: 500px;
+    padding: 20px 2%;
+    margin: auto
+}
+
+.so-col {
+    /* float: left; */
+    max-width: 500px;
+    padding: 20px 2%;
+    margin: auto
+}
+
+.frame {
+    width: 300px
+}
+
+p {
+    color: #e3e9ec;
+}
